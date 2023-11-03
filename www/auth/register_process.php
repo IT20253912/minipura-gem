@@ -1,7 +1,8 @@
 <?php
 session_start();
 // Change these credentials to your actual database connection details
-$conn = mysqli_connect('db', 'gem', 'gem', "gemshop");
+$conn = mysqli_connect('db', 'minipura', 'minipura', "minipuragem");
+
 
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());

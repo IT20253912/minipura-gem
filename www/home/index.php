@@ -16,7 +16,7 @@
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="assets/css/styles.css">
 
-        <title>Responsive watches website - Bedimcode</title>
+        <title>Responsive</title>
     </head>
     <body>
         <!--==================== HEADER ====================-->
@@ -185,7 +185,7 @@
                         <span class="home__price">25 Year Trusted Service</span>
 
                         <div class="home__btns">
-                            <a href="#" class="button button--gray button--small">
+                            <a href="../cart/index.php?page=products" class="button button--gray button--small">
                                 Discover
                             </a>
 
@@ -278,7 +278,7 @@
 
                 <div class="products__container grid">
                     <article class="products__card">
-                        <img src="assets/img/product1.png" alt="" class="products__img">
+                        <img src="assets/img/images__1_-removebg-preview (2).png" alt="" class="products__img">
 
                         <h3 class="products__title">Spirit rose</h3>
                         <span class="products__price">$1500</span>
@@ -289,7 +289,7 @@
                     </article>
 
                     <article class="products__card">
-                        <img src="assets/img/product2.png" alt="" class="products__img">
+                        <img src="assets/img/images__4_-removebg-preview.png" alt="" class="products__img">
 
                         <h3 class="products__title">Khaki pilot</h3>
                         <span class="products__price">$1350</span>
@@ -300,7 +300,7 @@
                     </article>
 
                     <article class="products__card">
-                        <img src="assets/img/product3.png" alt="" class="products__img">
+                        <img src="assets/img/images-removebg-preview (1).png" alt="" class="products__img">
 
                         <h3 class="products__title">Jubilee black</h3>
                         <span class="products__price">$870</span>
@@ -311,7 +311,7 @@
                     </article>
 
                     <article class="products__card">
-                        <img src="assets/img/product4.png" alt="" class="products__img">
+                        <img src="assets/img/png-transparent-jewellery-costume-jewelry-necklace-jewelry-miscellaneous-gemstone-diamond-thumbnail-removebg-preview.png" alt="" class="products__img">
 
                         <h3 class="products__title">Fosil me3</h3>
                         <span class="products__price">$650</span>
@@ -321,16 +321,7 @@
                         </button>
                     </article>
 
-                    <article class="products__card">
-                        <img src="assets/img/product5.png" alt="" class="products__img">
-
-                        <h3 class="products__title">Duchen</h3>
-                        <span class="products__price">$950</span>
-
-                        <button class="products__button">
-                            <i class='bx bx-shopping-bag'></i>
-                        </button>
-                    </article>
+                   
                 </div>
             </section>
 

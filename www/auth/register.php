@@ -11,9 +11,9 @@
    </head>
    <body>
       <div class="login">
-         <img src="assets/img/login-bg.jpg" alt="image" class="login__bg">
+         <img src="assets/img/10581.jpg" alt="image" class="login__bg">
          <form method="post" action="register_process.php" class="login__form">
-            <h1 class="login__title">Login</h1>
+            <h1 class="login__title">Registration Form</h1>
 
             <div class="login__inputs">
 
@@ -45,7 +45,7 @@
                   <label for="user-check" class="login__check-label">Remember me</label>
                 </div>  
             </div>
-            <button type="submit" class="login__button">Login</button>
+            <button type="submit" class="login__button">Register</button>
             <div class="login__register">
                Already have an account? <a href="index.php">Login</a>
             </div>
